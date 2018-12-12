@@ -11,6 +11,7 @@ gunicorn = "*"
 "psycopg2" = "*"
 flask-sqlalchemy = "*"
 heroku = "*"
+flask-heroku = "*"
 
 [dev-packages]
 
